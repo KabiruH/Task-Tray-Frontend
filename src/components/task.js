@@ -15,14 +15,14 @@ export default function Task () {
         <div>
             <Link to="/add"><button class="btn btn-primary">Add To Do</button></Link>
             
-        <table>
+        <table className="taskTable">
         <thead>
           <tr>
             <th>Name</th>
             <th>Description</th>
             <th>Priority</th>
             <th>Status</th>
-            <th>Actions</th>
+            
           </tr>
         </thead>
         <tbody>

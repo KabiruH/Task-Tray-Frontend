@@ -27,8 +27,8 @@ export default function SignUp() {
                     </div>
                     
                 </form>
-                <label class="form-check-label">Already have an account?</label>
-                <Link to="/signIn"><button class="btn btn-primary">Sign in here</button></Link>
+                <label class="form-check-label">Already have an account?</label> <br/>
+                <Link to="/signIn">Sign in here</Link>
             </div>
         </div>
 

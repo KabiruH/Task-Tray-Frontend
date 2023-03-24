@@ -57,3 +57,11 @@ body {
   font-size: 24px;
   
 }
+
+.taskTable {
+  text-align: center;
+  margin: auto;
+  width: 33%;
+  margin: 0 auto;
+  background-color: beige;
+}
