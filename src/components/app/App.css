@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url(/src/images/hd-wallpaper-gea41976b6_640.jpg);
+  opacity: 100%;
+  background-repeat: repeat-y;
+  background-position: center;
+  background-color: darkslategrey;
+}
+
+.card {
+  width: 33%;
+  margin: 0 auto;
+  margin-top: 3cm;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 24px;
+  
+}
